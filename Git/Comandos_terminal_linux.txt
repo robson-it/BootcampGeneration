@@ -1,0 +1,10 @@
+pwd -> exibe o usuário logado no sistema atualmente
+clear -> limpar a tela do console
+dir -> exibe a lista de diretórios dentro da pasta atual
+mkdir -> cria uma nova pasta
+cd -> entra no diretório
+cd .. -> volta para o diretório anterior
+touch -> cria arquivo
+nano -> editor de texto
+cat -> exibe o conteúdo do arquivo
+rm -Rf "pasta" -> apaga o diretório
