@@ -20,7 +20,8 @@
                     Console.WriteLine((numero < 0) ? $"O Número {numero} é ímpar e negativo!" : $"O Número {numero} é Ímpar e positivo!");
                 }
             }
-            else {
+            else
+            {
                 Console.WriteLine($"O número {numero} é par e neutro!");
             }
         }
