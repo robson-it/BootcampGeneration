@@ -1,0 +1,15 @@
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.exe
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.deps.json
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.runtimeconfig.json
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.dll
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\bin\Debug\net7.0\PlanoDeSaude.pdb
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.csproj.AssemblyReference.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.AssemblyInfoInputs.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.AssemblyInfo.cs
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.csproj.CoreCompileInputs.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.dll
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\obj\Debug\net7.0\refint\PlanoDeSaude.dll
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.pdb
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\obj\Debug\net7.0\PlanoDeSaude.genruntimeconfig.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\PlanoDeSaude\obj\Debug\net7.0\ref\PlanoDeSaude.dll

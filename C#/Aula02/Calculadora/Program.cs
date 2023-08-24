@@ -31,9 +31,16 @@
             //Exibe a múltiplicação das variáveis numero1 e numero2
             Console.WriteLine($"{numero1} * {numero2} = " + (numero1 * numero2));
 
-            //Exibe a divisão das variáveis numero1 e numero2
-            Console.WriteLine($"{numero1} / {numero2} = " + (numero1 / numero2).ToString("F2"));
-
+            if (numero2 > 0)
+            {
+                //Exibe a divisão das variáveis numero1 e numero2
+                Console.WriteLine($"{numero1} / {numero2} = " + (numero1 / numero2).ToString("F2"));
+            }
+            else {
+                //Escreve a mensagem na tela
+                Console.WriteLine("Não existe divisão por 0 (Zero)");
+            }
+         
             //Exibe a exponenciação das variáveis numero1 e numero2
             Console.WriteLine($"{numero1} ^ {numero2} = " + Math.Pow(numero1, numero2));
 

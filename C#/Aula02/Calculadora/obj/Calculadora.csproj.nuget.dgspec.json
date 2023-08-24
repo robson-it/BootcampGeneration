@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robson\\Documents\\BootcampGeneration\\C#\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\Robson\\Documents\\BootcampGeneration\\C#\\Aula02\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robson\\Documents\\BootcampGeneration\\C#\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\Robson\\Documents\\BootcampGeneration\\C#\\Aula02\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robson\\Documents\\BootcampGeneration\\C#\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\Robson\\Documents\\BootcampGeneration\\C#\\Aula02\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\Robson\\Documents\\BootcampGeneration\\C#\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\Robson\\Documents\\BootcampGeneration\\C#\\Aula02\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Robson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robson\\Documents\\BootcampGeneration\\C#\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\Robson\\Documents\\BootcampGeneration\\C#\\Aula02\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robson\\AppData\\Roaming\\NuGet\\NuGet.Config",
