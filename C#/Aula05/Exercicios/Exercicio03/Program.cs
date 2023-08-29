@@ -27,7 +27,7 @@
             for (int indiceLinha = 0; indiceLinha < 3 ; indiceLinha++)
             {
                 Console.Write($"{matrizNumerosInteiros[indiceLinha, matrizNumerosInteiros.GetLength(1)] -1 - indiceLinha} ");
-                somaElementosDiagSecundaria += matrizNumerosInteiros[indiceLinha, matrizNumerosInteiros.GetLength(1)] - 1 - indiceLinha];
+                somaElementosDiagSecundaria += matrizNumerosInteiros[indiceLinha, matrizNumerosInteiros.GetLength(1) - 1 - indiceLinha];
                 
             }
 
