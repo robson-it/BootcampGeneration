@@ -41,7 +41,7 @@ namespace Exercicio05.Model
         public void setDataAtracao(string dataAtracao) { this.dataAtracao = dataAtracao; }
         public void setPreco(decimal preco) { this.preco = preco; }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
 
             Console.BackgroundColor = ConsoleColor.DarkYellow;
@@ -56,10 +56,6 @@ namespace Exercicio05.Model
             Console.WriteLine($"    Quantidade de lotes: {getQuantidadeDeLotes()} Lotes                          ");
             Console.WriteLine($"    Data da atração: {getDataAtracao()}                                          ");
             Console.WriteLine($"    Valor do ingresso (unitário): {getPreco().ToString("C")}                     ");
-            Console.WriteLine("                                                                                  ");
-            Console.BackgroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("                                                                                  ");
-            Console.ResetColor();
 
         }
 

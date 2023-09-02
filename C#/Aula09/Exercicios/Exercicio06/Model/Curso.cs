@@ -41,7 +41,7 @@ namespace Exercicio06.Model
         public void setModulos(List<string> modulos) { this.modulos = modulos; }
         public void setPreco(decimal preco) { this.preco = preco; }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
 
             Console.BackgroundColor = ConsoleColor.DarkYellow;
@@ -56,10 +56,7 @@ namespace Exercicio06.Model
             Console.WriteLine($"    Descrição: {getDescricao()}                                                  ");
             Console.WriteLine($"    Módulos: {getModulos()}                                                      ");
             Console.WriteLine($"    Valor do curso: {getPreco().ToString("C")}                                   ");
-            Console.WriteLine("                                                                                  ");
-            Console.BackgroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("                                                                                  ");
-            Console.ResetColor();
+            
 
         }
 
