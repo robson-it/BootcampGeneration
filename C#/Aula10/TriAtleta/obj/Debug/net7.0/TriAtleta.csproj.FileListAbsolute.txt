@@ -1,0 +1,15 @@
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\bin\Debug\net7.0\TriAtleta.exe
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\bin\Debug\net7.0\TriAtleta.deps.json
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\bin\Debug\net7.0\TriAtleta.runtimeconfig.json
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\bin\Debug\net7.0\TriAtleta.dll
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\bin\Debug\net7.0\TriAtleta.pdb
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\obj\Debug\net7.0\TriAtleta.csproj.AssemblyReference.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\obj\Debug\net7.0\TriAtleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\obj\Debug\net7.0\TriAtleta.AssemblyInfoInputs.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\obj\Debug\net7.0\TriAtleta.AssemblyInfo.cs
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\obj\Debug\net7.0\TriAtleta.csproj.CoreCompileInputs.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\obj\Debug\net7.0\TriAtleta.dll
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\obj\Debug\net7.0\refint\TriAtleta.dll
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\obj\Debug\net7.0\TriAtleta.pdb
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\obj\Debug\net7.0\TriAtleta.genruntimeconfig.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula10\TriAtleta\obj\Debug\net7.0\ref\TriAtleta.dll

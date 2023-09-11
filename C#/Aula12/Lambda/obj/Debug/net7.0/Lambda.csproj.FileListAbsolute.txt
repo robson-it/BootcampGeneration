@@ -1,0 +1,15 @@
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\bin\Debug\net7.0\Lambda.exe
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\bin\Debug\net7.0\Lambda.deps.json
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\bin\Debug\net7.0\Lambda.runtimeconfig.json
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\bin\Debug\net7.0\Lambda.dll
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\bin\Debug\net7.0\Lambda.pdb
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\obj\Debug\net7.0\Lambda.csproj.AssemblyReference.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\obj\Debug\net7.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\obj\Debug\net7.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\obj\Debug\net7.0\Lambda.AssemblyInfo.cs
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\obj\Debug\net7.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\obj\Debug\net7.0\Lambda.dll
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\obj\Debug\net7.0\refint\Lambda.dll
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\obj\Debug\net7.0\Lambda.pdb
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\obj\Debug\net7.0\Lambda.genruntimeconfig.cache
+C:\Users\Robson\Documents\BootcampGeneration\C#\Aula12\Lambda\obj\Debug\net7.0\ref\Lambda.dll
