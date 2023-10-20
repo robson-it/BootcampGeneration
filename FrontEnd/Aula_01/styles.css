@@ -1,0 +1,19 @@
+p{
+    font-size: 15px; 
+    color: rgb(9, 107, 172);  
+    font-weight: bold;  
+}
+
+img{
+    width: 250px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    align-items: center;
+    border-style: solid;
+    border-color: blueviolet;
+}
